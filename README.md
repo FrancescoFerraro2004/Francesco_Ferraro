@@ -10,3 +10,14 @@
 - Imparo nuovi linguaggi e concetti di programmazione
 - Lavoro su piccoli progetti personali per mettere in pratica quello che studio
 - Mi avvicino al mondo open-source per migliorare e contribuire
+
+- @@ -10,9 +10,3 @@
+- Imparo nuovi linguaggi e concetti di programmazione
+- Lavoro su piccoli progetti personali per mettere in pratica quello che studio
+- Mi avvicino al mondo open-source per migliorare e contribuire
+
+---
+
+### 📈 Statistiche GitHub
+![Francesco's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescoferraro&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=francescoferraro&theme=radical)
