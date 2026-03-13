@@ -10,7 +10,7 @@ Studente di **Informatica** presso l'**Università della Calabria**. Nutro una p
 <p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
   <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-  <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://cplusplus.com" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
   <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" /></a>
 
